@@ -8,8 +8,6 @@ public class Curso extends Conteudo{
         return XP_PADRAO * cargaHoraria;
     }
 
-
-    
     public int getCargaHoraria() {
         return cargaHoraria;
     }
